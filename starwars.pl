@@ -14,6 +14,13 @@ jedi("qui gon jinn").
 jedi("mace windu").
 jedi("obi wan kenobi").
 
+sith("Palpatine").
+sith("Darth Vader").
+sith("Darth Plagueis").
+sith("Darth Sidious").
+sith("Darth Maul").
+sith("Darth Tyranus").
+
 
 killed("palpatine"," mace windu").
 killed("darth vader"," obi wan").
@@ -38,6 +45,11 @@ master("Darth Sidious", "Darth Maul").
 master("Darth Sidious", "Darth Tyranus").
 master("Darth Sidious","Darth Vader"). 
 
+
+
+jediMaster("yoda","anakin skywalker").
+jediMaster("obi wan","anakin skywalker").
+jediMaster("quinn gon jinn","obi wan").
 
 %Changed sides
 turnedWho("Anakin Skywalker","Darth Vader").
