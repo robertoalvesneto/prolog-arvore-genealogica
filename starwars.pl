@@ -38,7 +38,7 @@ master("Darth Sidious", "Darth Maul").
 master("Darth Sidious", "Darth Tyranus").
 master("Darth Sidious", "Darth Vader"). 
 
-masterWho(X,Y):- master(X), apprentice(Y)
+masterWho(X,Y):- master(X), apprentice(Y).
 
 %Changed sides
 turnedWho("Anakin Skywalker", "Darth Vader").
