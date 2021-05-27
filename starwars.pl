@@ -29,10 +29,10 @@ master(quin gon jinn).
 master(obi wan).
 
 % Sith
-master(Darth Plagueis, Darth Sidious).
-master(Darth Sidious, Darth Maul).
-master(Darth Sidious, Darth Tyranus).
-master(Darth Sidious, Darth Vader). 
+master("Darth Plagueis", "Darth Sidious").
+master("Darth Sidious", "Darth Maul").
+master("Darth Sidious", "Darth Tyranus").
+master("Darth Sidious", "Darth Vader"). 
 
 masterWho(X,Y):- master(X), apprentice(Y)
 
