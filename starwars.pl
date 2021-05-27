@@ -28,9 +28,8 @@ killed("darth vader"," palpatine").
 killed("darth maul"," quin gon jinn").
 
 apprentice("luke skywalker").
-apprendice("obi wan kenobi").
+apprentice("obi wan kenobi").
 apprentice("anakin skywalker").
-
 master("yoda").
 master("quin gon jinn").
 master("obi wan").
