@@ -39,3 +39,7 @@ master(Darth Sidious, Darth Tyranus).
 master(Darth Sidious, Darth Vader). 
 
 masterWho(X,Y):- master(X), apprentice(Y)
+
+%Changed sides
+turnedWho(anakinSkywalker, darthVader).
+turnedWho(dooku, darthTyranus).
