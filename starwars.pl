@@ -28,6 +28,10 @@ master(yoda).
 master(quin gon jinn).
 master(obi wan).
 
+changed_side(dookan).
+changed_side(anakin skywalker).
+changed_side(jacen solo).
+
 % Sith
 master(Darth Plagueis, Darth Sidious).
 master(Darth Sidious, Darth Maul).
