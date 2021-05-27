@@ -40,9 +40,9 @@ changed_side("anakin skywalker").
 changed_side("jacen solo").
 
 % Sith
-master("Darth Plagueis", "Darth Sidious").
-master("Darth Sidious", "Darth Maul").
-master("Darth Sidious", "Darth Tyranus").
+master("Darth Plagueis","Darth Sidious").
+master("Darth Sidious","Darth Maul").
+master("Darth Sidious","Darth Tyranus").
 master("Darth Sidious","Darth Vader"). 
 
 
@@ -53,4 +53,4 @@ jediMaster("quinn gon jinn","obi wan").
 
 %Changed sides
 turnedWho("Anakin Skywalker","Darth Vader").
-turnedWho("Conde Dookan", "Darth Tyranus").
+turnedWho("Conde Dookan","Darth Tyranus").
